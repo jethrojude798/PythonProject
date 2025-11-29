@@ -1,6 +1,6 @@
 choice = int(input('enter your choice (1-5)'))
 if choice == 1:
-    print('Calculating distance')
+    print('Calculating velocity')
     distance = int(input('enter value for distance'))
     time = int(input('enter value for time'))
 
